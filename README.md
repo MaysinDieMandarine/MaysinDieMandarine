@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaysinDieMandarine
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning PySimpleGUI
+- 🌱 I’m currently learning PygameZero
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me msa.scratchcat@gmail.com
 - 😄 Pronouns: ...
